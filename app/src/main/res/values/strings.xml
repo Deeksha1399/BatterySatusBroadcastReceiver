@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="check_battery">Check Battery</string>
+</resources>
